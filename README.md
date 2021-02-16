@@ -6,7 +6,7 @@ I've recently been diagnosed with a medical condition that will require me to no
 
 If you have any questions at all feel free to email me <dikaio@pm.me> or drop a comment below. Thank you!
 
-| Left-aligned     |   Price | Payments |  Status   |
+|       Domain     |  Price  | Payments |  Status   |
 | :--------------- | ------: | -------: | :-------: |
 | adverts.io       |  $9,000 |     $375 | available |
 | belief.io        | $11,000 |     $458 | available |
