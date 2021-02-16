@@ -1,12 +1,10 @@
-# Startup Domains
+Hi 👋, I'm Donovan, a developer based in Las Vegas, NV and I dabble a bit in domaining. Here below is a list of domains I've acquired over time that I thought would be great for new Startup ideas.
 
-Hi :wave:, I'm Donovan, a developer based in Las Vegas, NV and I dabble a bit in domaining. Here below is a list of domains I've acquired over time that I thought would be great for new Startups or startup ideas. Most of the domains are one-word domain names as well!
+I've recently been diagnosed with a medical condition that will require me to not work as much and as tough as it is to say I do need money now more than I have needed in the past so I'll part with the domains for I'm hoping will be reasonable for you and me or if you'd like to make payments overtime, you can grab the domain now and have full control.
 
-I've recently been diagnosed with a medical condition that will require me to not work as much and as tuff as it is to say I do need money now more than I have needed in the past so I'll part with the domains or probably most. I've turned down offers in the past but because of my current situation, I'm much more open to offers.
+**If you're in the market for a new domain or working on a new project please consider buying from me or if you want to help please consider retweeting or upvote this post I would be extremely grateful for your support** ❤️.
 
-If you're in the market for a new domain or working on a new project please consider buying from me or if you want to help please consider retweeting or upvote this domain list on [Hacker News](https://news.ycombinator.com/) I would be extremely grateful for your support :heart:.
-
-If you have any questions at all feel free to email me @ <i@dikaio.com>. Thank you!
+If you have any questions at all feel free to email me <dikaio@pm.me> or drop a comment below. Thank you!
 
 | Left-aligned     |   Price | Payments |  Status   |
 | :--------------- | ------: | -------: | :-------: |
