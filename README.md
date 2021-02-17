@@ -1,3 +1,5 @@
+# Startup Domains
+
 Hi 👋, I'm Donovan, a developer based in Las Vegas, NV and I dabble a bit in domaining. Here below is a list of domains I've acquired over time that I thought would be great for new Startup ideas.
 
 **If you're in the market for a new domain or working on a new project please consider buying from me or if you want to help please consider retweeting or upvote this post I would be extremely grateful for your support** ❤️.
