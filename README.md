@@ -2,7 +2,7 @@
 
 Hi 👋, I'm Donovan, a developer based in Las Vegas, NV and I dabble a bit in domaining. Here below is a list of domains I've acquired over time that I thought would be great for new Startup ideas.
 
-The large marjority of our domains our held with [DNSimple](https://dnsimple.com/), you can see how they stack up against all other [DNS providers here](https://www.dnsperf.com) they're constantly at the top. My experience with the service is super fast DNS queries and propogation for Namerservers, and all records is probably the quikest in the industry. If you purchase one of the doamins below and have a DNSimple account I can transfer the domain to your account and it takes about 5 minutes for the complete transfer :party:, support is top notch too, yes we love them. You can use our referral link if you want :blush: [Our Referral Link](https://dnsimple.com/r/dc71cea187623d).
+If you purchase one of the doamins below and have a [DNSimple](https://www.dnsperf.com/dns-provider/dnsimple) account I can transfer the domain to your account and it takes about 5 minutes for the complete transfer. [Our Referral Link](https://dnsimple.com/r/dc71cea187623d).
 
 **If you're in the market for a new domain or working on a new project please consider buying from me or if you want to help please consider retweeting or upvote this post I would be extremely grateful for your support** ❤️.
 
@@ -31,7 +31,7 @@ If you have any questions at all feel free to email me <dikaio@pm.me> or drop a 
 | els.io           | $10,000 |     $416 | [DNSimple](https://dnsimple.com) | 2021-10-14 | available |
 | encrypt.io       | $49,000 |    $1041 | [DNSimple](https://dnsimple.com) | 2021-03-24 | available |
 | envy.io          | $10,000 |     $416 | [DNSimple](https://dnsimple.com) | 2021-06-03 | available |
-| eternity.io      |  $5,000 |     $208 | [DNSimple](https://dnsimple.com) | 2021-06-29 | available |
+| eternity.io      |  $5,000 |     $208 | [DNSimple](https://dnsimple.com) | 2021-06-29 |   sold    |
 | faa.io           |  $5,500 |     $229 | [DNSimple](https://dnsimple.com) | 2021-06-05 | available |
 | financials.io    | $35,000 |    $1458 | [DNSimple](https://dnsimple.com) | 2021-07-12 | available |
 | focused.io       |   $5000 |     $208 | [DNSimple](https://dnsimple.com) | 2021-06-26 | available |
