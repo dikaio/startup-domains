@@ -2,6 +2,8 @@
 
 Hi 👋, I'm Donovan, a developer based in Las Vegas, NV and I dabble a bit in domaining. Here below is a list of domains I've acquired over time that I thought would be great for new Startup ideas.
 
+The large marjority of our domains our held with [DNSimple](https://dnsimple.com/), you can see how they stack up against all other [DNS providers here](https://www.dnsperf.com) they're constantly at the top. My experience with the service is super fast DNS queries and propogation for Namerservers, and all records is probably the quikest in the industry. If you purchase one of the doamins below and have a DNSimple account I can transfer the domain to your account and it takes about 5 minutes for the complete transfer :party:, support is top notch too, yes we love them. You can use our referral link if you want :blush: [Our Referral Link](https://dnsimple.com/r/dc71cea187623d).
+
 **If you're in the market for a new domain or working on a new project please consider buying from me or if you want to help please consider retweeting or upvote this post I would be extremely grateful for your support** ❤️.
 
 If you have any questions at all feel free to email me <dikaio@pm.me> or drop a comment below. Thank you!
@@ -74,7 +76,7 @@ If you have any questions at all feel free to email me <dikaio@pm.me> or drop a 
 | siege.io         |  $5,500 |     $229 | [DNSimple](https://dnsimple.com) | 2021-05-13 | available |
 | standards.io     | $20,000 |     $833 | [DNSimple](https://dnsimple.com) | 2021-06-15 | available |
 | states.io        | $15,000 |     $625 | [DNSimple](https://dnsimple.com) | 2021-05-29 | available |
-| stato.io         | $4,000  |     $166 | [DNSimple](https://dnsimple.com) | 2021-05-21 | available |
+| stato.io         |  $4,000 |     $166 | [DNSimple](https://dnsimple.com) | 2021-05-21 | available |
 | stox.io          | $10,000 |     $416 | [DNSimple](https://dnsimple.com) | 2021-12-18 | available |
 | strip.deals      | $22,000 |     $916 | [DNSimple](https://dnsimple.com) | 2022-08-14 | available |
 | subrosa.io       |  $1,500 |      $62 | [DNSimple](https://dnsimple.com) | 2021-07-16 | available |
