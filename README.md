@@ -27,7 +27,7 @@ If you have any questions at all feel free to email me <dikaio@pm.me> or drop a 
 | diligent.io      | $30,000 |   $1,250 | [DNSimple](https://dnsimple.com) | 2021-06-04 | available |
 | donors.io        |   $8000 |     $333 | [DNSimple](https://dnsimple.com) | 2021-05-02 | available |
 | els.io           | $10,000 |     $416 | [DNSimple](https://dnsimple.com) | 2021-10-14 | available |
-| encrypt.io       | $25,000 |    $1041 | [DNSimple](https://dnsimple.com) | 2021-03-24 | available |
+| encrypt.io       | $49,000 |    $1041 | [DNSimple](https://dnsimple.com) | 2021-03-24 | available |
 | envy.io          | $10,000 |     $416 | [DNSimple](https://dnsimple.com) | 2021-06-03 | available |
 | eternity.io      |  $5,000 |     $208 | [DNSimple](https://dnsimple.com) | 2021-06-29 | available |
 | faa.io           |  $5,500 |     $229 | [DNSimple](https://dnsimple.com) | 2021-06-05 | available |
