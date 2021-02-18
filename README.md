@@ -20,7 +20,6 @@ If you have any questions at all feel free to email me <dikaio@pm.me> or drop a 
 | cavalier.io      |  $5,500 |     $229 | [DNSimple](https://dnsimple.com) | 2021-07-24 | available |
 | certificates.io  | $21,000 |     $875 | [DNSimple](https://dnsimple.com) | 2021-03-10 | available |
 | charters.io      | $18,000 |     $750 | [DNSimple](https://dnsimple.com) | 2021-06-20 | available |
-| closers.io       |  $7,500 |     $312 | [DNSimple](https://dnsimple.com) | 2021-05-28 |   sold    |
 | comanche.io      | $12,000 |     $500 | [DNSimple](https://dnsimple.com) | 2022-01-29 | available |
 | contingency.io   |  $8,000 |     $333 | [DNSimple](https://dnsimple.com) | 2021-09-18 | available |
 | couriers.io      |  $9,000 |     $375 | [DNSimple](https://dnsimple.com) | 2021-06-11 | available |
@@ -31,11 +30,9 @@ If you have any questions at all feel free to email me <dikaio@pm.me> or drop a 
 | els.io           | $10,000 |     $416 | [DNSimple](https://dnsimple.com) | 2021-10-14 | available |
 | encrypt.io       | $49,000 |    $1041 | [DNSimple](https://dnsimple.com) | 2021-03-24 | available |
 | envy.io          | $10,000 |     $416 | [DNSimple](https://dnsimple.com) | 2021-06-03 | available |
-| eternity.io      |  $5,000 |     $208 | [DNSimple](https://dnsimple.com) | 2021-06-29 |   sold    |
 | faa.io           |  $5,500 |     $229 | [DNSimple](https://dnsimple.com) | 2021-06-05 | available |
 | financials.io    | $35,000 |    $1458 | [DNSimple](https://dnsimple.com) | 2021-07-12 | available |
 | focused.io       |   $5000 |     $208 | [DNSimple](https://dnsimple.com) | 2021-06-26 | available |
-| gsa.io           |  $4,500 |     $187 | [DNSimple](https://dnsimple.com) | 2021-06-06 |   sold    |
 | gtd.io           | $30,000 |    $1250 | [DNSimple](https://dnsimple.com) | 2022-04-04 | available |
 | hills.io         |  $9,000 |     $375 | [DNSimple](https://dnsimple.com) | 2021-05-06 | available |
 | iad.io           |  $4,500 |     $187 | [DNSimple](https://dnsimple.com) | 2021-05-22 | available |
@@ -91,5 +88,4 @@ If you have any questions at all feel free to email me <dikaio@pm.me> or drop a 
 | website.agency   | $14,000 |     $791 | [Name.com](https://name.com)     | 2021-04-27 | available |
 | wget.io          |  $4,500 |     $187 | [DNSimple](https://dnsimple.com) | 2021-05-03 | available |
 | wills.io         |  $8,000 |     $333 | [DNSimple](https://dnsimple.com) | 2021-05-19 | available |
-| wv.io            | $10,000 |     $416 | [DNSimple](https://dnsimple.com) | 2021-12-10 |   sold    |
 | zoic.io          |  $5,000 |     $208 | [DNSimple](https://dnsimple.com) | 2021-11-27 | available |
