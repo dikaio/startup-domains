@@ -51,7 +51,7 @@ If you have any questions at all feel free to email me <dikaio@pm.me> or drop a 
 | modems.io        | $15,000 |     $625 | [DNSimple](https://dnsimple.com) | 2021-07-01 | available |
 | mount.io         |  $9,000 |     $375 | [DNSimple](https://dnsimple.com) | 2021-05-13 | available |
 | neurologist.io   |  $8,000 |     $333 | [DNSimple](https://dnsimple.com) | 2021-06-04 | available |
-| neurosureon.io   |  $8,000 |     $333 | [DNSimple](https://dnsimple.com) | 2021-06-04 | available |
+| neurosurgeon.io   |  $8,000 |     $333 | [DNSimple](https://dnsimple.com) | 2021-06-04 | available |
 | novo.io          |  $5,500 |     $229 | [DNSimple](https://dnsimple.com) | 2021-05-31 | available |
 | olive.io         | $45,000 |    $1875 | [DNSimple](https://dnsimple.com) | 2022-01-22 | available |
 | oncologist.io    |  $8,000 |     $333 | [DNSimple](https://dnsimple.com) | 2021-06-04 | available |
